@@ -3,7 +3,7 @@
 Role: Developed a mini game which represented helping one of the neighbors. 
 Assisted in designing decisions for player to make and outcomes of their actions.
 
-You can view the gameplay here:
+You can view the gameplay here:<br>
 https://www.youtube.com/watch?v=EW_oDabTcXk
 
 Group Project in Godot. <br>
